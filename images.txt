@@ -5,3 +5,11 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 yedf/dtm
+bitnami/etcd
+mysql:5.7
+redis:5.0
+phpmyadmin/phpmyadmin
+erikdubbelboer/phpredisadmin
+bitnami/prometheus
+grafana/grafana
+jaegertracing/all-in-one:1.28
