@@ -14,3 +14,4 @@ bitnami/prometheus
 grafana/grafana
 jaegertracing/all-in-one:1.28
 golang:1.22.2-bookworm
+jassue/node
