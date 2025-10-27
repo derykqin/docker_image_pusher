@@ -16,4 +16,4 @@ jaegertracing/all-in-one:1.28
 golang:1.22.2-bookworm
 jassue/node
 kindest/node:v1.32.2
-1.29.2-alpine
+nginx:1.29.2-alpine
