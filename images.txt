@@ -10,7 +10,7 @@ mysql:8.0
 redis:7.4
 phpmyadmin/phpmyadmin
 erikdubbelboer/phpredisadmin
-bitnami/prometheus
+#bitnami/prometheus
 grafana/grafana
 jaegertracing/all-in-one:1.28
 golang:1.22.2-bookworm
